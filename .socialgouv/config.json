@@ -1,5 +1,7 @@
 {
   "name": "www",
   "type": "static",
-  "subdomain": "www"
+  "subdomain": "www",
+  "hasura": false,
+  "azure-pg": false
 }
